@@ -18,7 +18,7 @@ We use the latest technologies to deliver cutting-edge solutions to our clients.
 - React, Angular, and Vue.js
 - Node.js, Python, and PHP
 - AWS, Azure, and Google Cloud Platform
-- Adobe, Illustrator & Indesign
+- Photoshop, Illustrator & Indesign
 
 ## Contact Us
 
