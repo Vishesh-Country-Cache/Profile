@@ -22,4 +22,4 @@ We use the latest technologies to deliver cutting-edge solutions to our clients.
 
 ## Contact Us
 
-If you need help with any software-related project, feel free to contact us at rajeswarip@visheshcountrycache.com. We'll be happy to discuss your requirements and provide you with a customized solution that meets your needs.
+If you need help with any software-related project, feel free to contact us at anithab@visheshcountrycache.com. We'll be happy to discuss your requirements and provide you with a customized solution that meets your needs.
